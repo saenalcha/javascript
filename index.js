@@ -19,6 +19,7 @@ async function display(text, time) {
         console.log(error)
     }
     
+    
     console.timeEnd("소요시간")
 
     console.log('------')
